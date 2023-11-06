@@ -3,7 +3,7 @@ import websockets
 import asyncio
 import base64
 import json
-auth_key = 'YOUR_API_KEY'
+auth_key = '93408a265a97462bbc5592231f3b34e4'
 
 FRAMES_PER_BUFFER = 3200
 FORMAT = pyaudio.paInt16
